@@ -44,16 +44,9 @@ export const ProjectData =[
     github_url: "https://github.com/verok80/weather",
     demo_url: "https://weather-app-watch.netlify.app"
     },
+    
     {
-    id: 5 ,
-    img: imageIdFive,
-    title: "COOKIE CAFE",
-    techStack: "HTML, CSS, JavaScript",
-    github_url: "",
-    demo_url: "https://cookie-cafe-pastries.netlify.app"
-    },
-    {
-    id: 6,
+    id: 5,
     img: imageIdSix,
     title: "NUTRITION ANALYSIS",
     techStack: "RactJS",
@@ -61,15 +54,15 @@ export const ProjectData =[
     demo_url: "https://analyze-nutritions-app.netlify.app"
     },
     {
-    id: 7,
+    id: 6,
     img: imageIdSeven,
     title: "RECIPE SEARCH",
-    techStack: "ReactJS, Nodejs",
+    techStack: "ReactJS",
     github_url: "https://github.com/verok80/italian-recipe-search",
     demo_url: "https://italian-recipes-search.netlify.app"
     },
     {
-    id: 8,
+    id: 7,
     img: imageIdEight,
     title: "RELAX APP",
     techStack: "HTML, CSS, JavaScript",
@@ -77,7 +70,7 @@ export const ProjectData =[
     demo_url: "https://relaxation-meditation-app.netlify.app"
     },
     {
-    id: 9,
+    id: 8,
     img: imageIdNine,
     title: "HEALTHY MEAL",
     techStack: "HTML, CSS, Bootstrap",
@@ -85,7 +78,7 @@ export const ProjectData =[
     demo_url: "https://food-healthy-book.netlify.app"
     },
     {
-    id: 10,
+    id: 9,
     img: imageIdTen,
     title: "KITCHEN TIMER",
     techStack: "HTML, CSS, JavaScript",

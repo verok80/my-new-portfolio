@@ -1,7 +1,7 @@
 import React from "react";
 import "../index.css"
 import imageTwo from '../assets/hand.png';
-import imageThree from '../assets/Me2-modified.png';
+import imageThree from '../assets/Me3-modified.png';
 import imageFour from '../assets/html-5.png';
 import imageFive from '../assets/css-3.png';
 import imageSix from '../assets/js.png';
